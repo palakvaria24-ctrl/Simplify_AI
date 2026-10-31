@@ -33,7 +33,7 @@ The goal is to make complex knowledge more accessible, understandable, and usefu
 ## 📁 Project Structure
 
 ```text
-Complex-Topic-Simplifier/
+SimplifyAI/
 │
 ├── backend/
 │   ├── main.py
